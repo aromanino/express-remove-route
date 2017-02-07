@@ -32,8 +32,8 @@ local path from within the `router`.
 ## removeRoute(app, resourcePath, resourceMethod);
 This is the function that remove a resource  route on the fly 
 The param `app` is the express application(app) on which you want remove the resource.  
-the param `resourcePath` is the resource path to remove on the fly
-the param `resourceMethod` is the resource method  with a given path to remove on the fly. If null or undefined all
+the param `resourcePath` is the resource path to remove on the fly  
+the param `resourceMethod` is the resource method  with a given path to remove on the fly. If null or undefined all  
 routes with the given path are removed.
 
 # Examples
