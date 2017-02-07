@@ -1,6 +1,6 @@
 {
   "name": "express-remove-route",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Remove a route in express at runtime.",
   "main": "index.js",
   "scripts": {},
