@@ -1,6 +1,6 @@
 {
   "name": "remove-route-onthefly",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Remove a route in express at runtime.",
   "main": "index.js",
   "scripts": {},
