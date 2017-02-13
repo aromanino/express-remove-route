@@ -1,4 +1,4 @@
-# express-remove-route
+# remove-route-onthefly
 Delete a route in express at runtime.
 
 # Overview
@@ -8,11 +8,11 @@ problem.
 
 # Installation
 
-    npm install express-remove-route
+    npm install remove-route-onthefly
 
 # Usage
 
-    var removeRoute = require('express-remove-route');
+    var removeRoute = require('remove-route-onthefly');
 
     var app = express();
     var router = express.Router();
@@ -40,7 +40,7 @@ routes with the given path are removed.
 
 ## Remove all resources with a given path
 
-    var removeRoute = require('express-remove-route');
+    var removeRoute = require('remove-route-onthefly');
 
     var app = express();
     var router = express.Router();
@@ -59,7 +59,7 @@ routes with the given path are removed.
 
 ## Remove all resources with a given path and method
 
-    var removeRoute = require('express-remove-route');
+    var removeRoute = require('remove-route-onthefly');
 
     var app = express();
     var router = express.Router();
