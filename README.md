@@ -4,7 +4,7 @@ Delete a route in express at runtime.
 # Overview
 I wanted the ability to dynamically control Express routing but
 was not able to delete a route at runtime.  This module solves that
-problem.
+problem. It is a fork from express-remove-route by brennancheung "https://github.com/brennancheung/express-remove-route"
 
 # Installation
 
