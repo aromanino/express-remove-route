@@ -1,6 +1,8 @@
 # remove-route-onthefly
 Delete a route in express at runtime.
 
+[![NPM](https://nodei.co/npm/remove-route-onthefly.png?downloads=true&downloadRank=true&stars=true)![NPM](https://nodei.co/npm-dl/remove-route-onthefly.png?months=6&height=3)](https://nodei.co/npm/remove-route-onthefly/)
+
 # Overview
 I wanted the ability to dynamically control Express routing but
 was not able to delete a route at runtime.  This module solves that
